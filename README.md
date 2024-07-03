@@ -31,7 +31,7 @@ EDA involved exploring the data to answer key questions such as :
 3. Which is the best performing state.
 
 ### Data Visualization
-![Screenshot 2024-07-02 221119](https://github.com/shubh-20-am/Car_Sales_Analysis_Dashboard/assets/141903981/84370531-f3d9-4748-bd85-7c2fccde4658)
+![Screenshot 2024-07-03 125453](https://github.com/shubh-20-am/SuperStore_Sales_Analysis/assets/141903981/9167833c-8e2f-474b-acf9-cc4cffc75603)
 
 
 ### Results/Findings
